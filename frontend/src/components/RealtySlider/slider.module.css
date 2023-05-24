@@ -1,0 +1,23 @@
+
+
+.slider{
+    display: flex;
+}
+.card{
+    width: 404px;
+    height: 310px;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 30px;
+}
+/*.inCard{*/
+/*    border-style: solid;*/
+/*}*/
+.info{
+    float: left;
+
+}

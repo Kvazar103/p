@@ -1,0 +1,16 @@
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/dto/CustomerDTO.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Real_Estate.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Currency.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Realty_Object.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Type_Of_Order_Of_Real_Estate.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Price.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/configs/WebConfig.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/controllers/MainController.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/dao/RealtyObjectDAO.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/District.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/security/SecurityConfig.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/BackendApplication.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/dto/RealtyObjectDTO.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/security/filters/CustomFilter.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/dao/CustomerDAO.java
+/Users/nazarvoynarovich/Desktop/full_realty_project_to_deploy/Backend/src/main/java/com/example/backend/models/Customer.java

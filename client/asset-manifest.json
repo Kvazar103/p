@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3511137.css",
+    "main.js": "/static/js/main.73ecc8cd.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/lviv_sunrises_and_sunsets.jpg": "/static/media/lviv_sunrises_and_sunsets.28188d05c43b42ba156c.jpg",
+    "static/media/icon.png": "/static/media/icon.cef0f5f8a3dea8d83c65.png",
+    "static/media/copy-link-icon-3.jpg": "/static/media/copy-link-icon-3.9ef9d9fe070bc45405f8.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/heart-red-svgrepo-com.svg": "/static/media/heart-red-svgrepo-com.2c67f540eaf68bcec7b654dab8216436.svg",
+    "static/media/delete-1487-svgrepo-com.svg": "/static/media/delete-1487-svgrepo-com.d6f9c69058c26f573934f4519a02fed3.svg",
+    "static/media/share-ios-export-svgrepo-com.svg": "/static/media/share-ios-export-svgrepo-com.2e813f5fe42459f83d92c846b63b3106.svg",
+    "index.html": "/index.html",
+    "static/media/report-flag-1420-svgrepo-com.svg": "/static/media/report-flag-1420-svgrepo-com.35cc95aac67ad59a5e7a7205f90739c5.svg",
+    "static/media/edit-svgrepo-com.svg": "/static/media/edit-svgrepo-com.93a0bf12ba05c3601125783d877f02ad.svg",
+    "static/media/heart-01-svgrepo-com.svg": "/static/media/heart-01-svgrepo-com.4da9cb4bbe76390a1fac7aa091f58bfa.svg",
+    "main.b3511137.css.map": "/static/css/main.b3511137.css.map",
+    "main.73ecc8cd.js.map": "/static/js/main.73ecc8cd.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3511137.css",
+    "static/js/main.73ecc8cd.js"
+  ]
+}
